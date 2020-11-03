@@ -1,35 +1,13 @@
-<h1 align="center">Model-View-Controller (MVC) Tech Blog 👋</h1>
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/mvc-tech-blog" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/mvc-tech-blog"  />
-    <img src="https://img.shields.io/github/issues/jpd61/mvc-tech-blog" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/mvc-tech-blog" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
-  
-<p align="center">
-    <img src="https://img.shields.io/badge/javascript-yellow" />
-    <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/sequelize-blue"  />
-    <img src="https://img.shields.io/badge/handlebars-red"  />
-    <img src="https://img.shields.io/badge/mySQL-blue"  />
-    <img src="https://img.shields.io/badge/dotenv-green" />
-</p>
+## MVC Tech Blog
    
 ## Description
 
-🔍 A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
+*A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv*
 
-**[Deployed Application](https://hidden-falls-22101.herokuapp.com/)**
-  
-💻 Below is a screenshot of the application:
-  
-![technically speaking: a tech blog](screenshot.PNG)
+## Application Deployment
 
+https://mvc-tech-blog.herokuapp.com/
+  
 ## User Story
 
 ```
@@ -75,53 +53,3 @@ THEN I am signed out of the site
 WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site
 ```
-   
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
-
-## Installation
-💾   
-  
-`npm init`
-
-`npm install`
-  
-## Usage
-💻   
-  
-Run the following command at the root of your project and answer the prompted questions:
-
-`mysql -u root -p`
-
-Enter PW when promted
-
-`source db/schema.sql`
-
-`quit`
-
-`npm run seed`
-  
-`npm start`
-
-With Nodemon:
-
-`npm run watch`
-
-## Testing
-✏️
-
-Helper testing is currently setup with Jest
-
-## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
-
-## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
