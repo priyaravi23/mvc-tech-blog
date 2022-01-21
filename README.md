@@ -1,3 +1,8 @@
+## Greetings
+This is also an attempt to learn to "fork" a code as this set of code is relevant to that I am learning at present.
+Unsure if I can do it well or not. ** Not an original work by me. Thank you. 
+## Incomplete work, still in prgress!
+
 ## MVC Tech Blog
    
 ### Description
